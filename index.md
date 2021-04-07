@@ -9,17 +9,17 @@
 # Education
 
 
-### **Machine Learning and DataScience Program** with [*Integrify*](https://integrify.academy/international)
+#### **Machine Learning and DataScience Program** with [*Integrify*](https://integrify.academy/international)
 > Currently completing (April 2021 to September 2021)
 >
 
-### **MSc Research Methods in Psychology** 
+## **MSc Research Methods in Psychology** 
 > Graduated with *merit* from the [University of Strathclyde](https://www.strath.ac.uk/courses/postgraduatetaught/researchmethodsinpsychology/) in 2018 (Glasgow, UK)
 > 
 > *Thesis title: Transliminality and Visual Perception: Investigating the interaction between transliminality scores and the rate of inattentional and change blindness.*
 >
 
-### **BA Psychology**
+##### **BA Psychology**
 > Graduated with *honors* from [Bemidji State University](https://www.bemidjistate.edu/academics/departments/psychology/)
 >
 
