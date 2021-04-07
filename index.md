@@ -1,16 +1,18 @@
 # Contact Me
-[Email](mailto:bethannchamber+gitcv@gmail.com)    |   [LinkedIn](linkedin.com/in/bethanyannc)    |   [GitHub](https://github.com/bethannchamber)
+# [Email](mailto:bethannchamber+gitcv@gmail.com)    |   [LinkedIn](linkedin.com/in/bethanyannc)    |   [GitHub](https://github.com/bethannchamber)
 
-* *Citizenship:* United States of America
 * *Residence (with work permit):* Copenhagen, Denmark
+* *Citizenship:* United States of America
 * *Languages:* English (native), Italian (intermediate), Swedish (beginner)
+
+***
 
 ## Education
 
 ### **Machine Learning and DataScience** 
 In April 2021, I began a bootcamp program with [*Integrify*](https://integrify.academy/international). The program will run until September 2021. 
 
-**Topics:**
+#### **Topics:**
 * programming
 * data analysis
 * data visualization
@@ -22,33 +24,34 @@ In April 2021, I began a bootcamp program with [*Integrify*](https://integrify.a
 ### **MSc Research Methods in Psychology** 
 I graduated with *merit* from the [University of Strathclyde](https://www.strath.ac.uk/courses/postgraduatetaught/researchmethodsinpsychology/) in 2018. 
 
-**Taught Modules:**
+#### **Taught Modules:**
 * Quantitative Research Methods
 * Qualitative Research Methods
 * Software Skills
 * Practical Research Skills
 
-**Dissertation Module:**
+#### **Dissertation Module:**
 > **Title:** Transliminality and Visual Perception: Investigating the interaction between transliminality scores and the rate of inattentional and change blindness.
 
-For my project, I used 
+#### **For my project, I used:** 
 * E-Prime software to design computerized tasks to test change blindness and inattentional blindness 
 * Qualtrics to design and administer a survey to sort participants into groups
 * Calendly to organize lab visits for research participants to complete the computerized tasks
 * SPSS and Excel for managing data and conducting analyses
 
-**Accomplishments:**
+#### **Accomplishments:**
 * 3rd author on a [publication](doi.org/10.1002/acp.3608)
 * Strathclyde Psychology Postgraduate Award for Academic Citizenship
 
 ### **BA Psychology**
 I graduated with *honors* from [Bemidji State University](https://www.bemidjistate.edu/academics/departments/psychology/) in 2016. In addition to generally broadening my understanding of psychological concepts, I also began to study research methods and statistics for social sciences. I used SPSS and Microsoft Office programs regularly.
 
+***
 
 ## Work Experience
 
 ### **External Lecturer**
-DIS Study Abroad - Copenhagen (*January 2021 to Present*)
+###### DIS Study Abroad - Copenhagen (*January 2021 to Present*)
 
 Lecturer for *Public Mental Health* course. Responsible for one synchronous class a week in the Spring 2021. Course topics include COVID-19 and mental health; urban mental health; depression and anxiety; alcohol use disorders; and more.
 
@@ -58,7 +61,7 @@ Lecturer for *Public Mental Health* course. Responsible for one synchronous clas
 * **Research skills:** course is based on peer-reviewed articles and reports from reputable organizations (e.g., the WHO)
 
 ### **English as a Second Language (ESL) Teacher** 
-VIPKID - Remote (*January 2017 to October 2020*)
+###### VIPKID - Remote (*January 2017 to October 2020*)
 
 Instructed Chinese students (ages 5 to 16) using VIPKID's curriculum. Delivered synchronous, online video lessons and adjusted the material to suit students' individual needs. Taught more than 3,000 classes and more than 800 students. Consistently received perfect ratings from happy parents and students.
 
@@ -69,7 +72,7 @@ Instructed Chinese students (ages 5 to 16) using VIPKID's curriculum. Delivered 
 * General **computer and technical skills**, including troubleshooting common video, audio, and network issues
 
 ### **Graduate Teaching Assistant**
-University of Strathclyde - Glasgow (*October 2017 to May 2018*)
+###### University of Strathclyde - Glasgow (*October 2017 to May 2018*)
 
 Marked essays and lab reports, invigilated for tests, maintained paperwork, and met with students to provide direct feedback.
 
@@ -77,6 +80,8 @@ Marked essays and lab reports, invigilated for tests, maintained paperwork, and 
 * Varied **communication skills** both verbal and written
 * **Time management skills:** strict deadlines to meet
 * **Friendliness** and **enthusiasm**
+
+***
 
 ## Volunteer Experience
 
@@ -88,11 +93,12 @@ I have volunteered with this organization since October 2020. I help collect foo
 
 I have volunteered as a book club leader at this local book store since about January 2020. I lead monthly meetings, communicate regularly with book club members and bookstore management, and also handle general administrative tasks (e.g., keeping our online document up to date).
 
+***
 
 ## Skills
 
 
-#### Research:
+### Research:
 
 * Data management
   * input
@@ -111,7 +117,7 @@ I have volunteered as a book club leader at this local book store since about Ja
   * Undergraduate students
   * Word of mouth
 
-#### Soft Skills:
+### Soft Skills:
 
 * Leadership
 * Adaptability
