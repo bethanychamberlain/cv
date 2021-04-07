@@ -2,63 +2,73 @@
 
 #### [Email](mailto:bethannchamber+gitcv@gmail.com)    |   [LinkedIn](linkedin.com/in/bethanyannc)    |   [GitHub](https://github.com/bethannchamber)
 
-
-*Citizenship:* United States of America
-
-*Residence (with work permit):* Copenhagen, Denmark
-
-*Languages:* English (native), Italian (intermediate), Swedish (beginner)
+* *Citizenship:* United States of America
+* *Residence (with work permit):* Copenhagen, Denmark
+* *Languages:* English (native), Italian (intermediate), Swedish (beginner)
 
 ***
 
-## Education
+# Education
 
-### **Machine Learning and DataScience Program** with [*Integrify*](https://integrify.academy/international)
-Currently completing (April 2021 to September 2021)
+## **Machine Learning and DataScience Program** with [*Integrify*](https://integrify.academy/international)
+    Currently completing (April 2021 to September 2021)
 
-### **MSc Research Methods in Psychology** 
-Graduated with *merit* from the [University of Strathclyde](https://www.strath.ac.uk/courses/postgraduatetaught/researchmethodsinpsychology/) in 2018 (Glasgow, UK)
+## **MSc Research Methods in Psychology** 
+    Graduated with *merit* from the [University of Strathclyde](https://www.strath.ac.uk/courses/postgraduatetaught/researchmethodsinpsychology/) in 2018 (Glasgow, UK)
 
-*Thesis title: Deep Learning Approaches to the Self-Awesomeness
-Estimation Problem*
+*Thesis title: Transliminality and Visual Perception: Investigating the interaction between transliminality scores and the rate of inattentional and change blindness.*
 
-### **BA Psychology**
-Graduated with *honors* from [Bemidji State University](https://www.bemidjistate.edu/academics/departments/psychology/)
+## **BA Psychology**
+    Graduated with *honors* from [Bemidji State University](https://www.bemidjistate.edu/academics/departments/psychology/)
 
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/bethannchamber/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+***
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Work Experience
 
-### Markdown
+## **External Lecturer, Public Mental Health** at DIS Study Abroad - Copenhagen
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Lecturer for *Public Mental Health* course. Responsible for one synchronous class a week in the Spring 2021. Course topics include COVID-19 and mental health; urban mental health; depression and anxiety; alcohol use disorders; and more.
 
-```markdown
-Syntax highlighted code block
+  * Communication skills: feedback to students, synchronous and asynchronous lecture presentations, public speaking
+  * Technical skills: Canvas, Zoom, Microsoft Office, Padlet, Sli.do, Coggle
+  * Research skills: course is based on peer-reviewed articles and reports from reputable organizations (e.g., the WHO)
 
-# Header 1
-## Header 2
-### Header 3
+## **English as a Second Language (ESL) Teacher** at VIPKID - Remote
 
-- Bulleted
-- List
+Also with a short description.
 
-1. Numbered
-2. List
+**Graduate Teaching Assistant** at the University of Strathclyde - Glasgow
 
-**Bold** and _Italic_ and `Code` text
+Also with a short description.
 
-[Link](url) and ![Image](src)
-```
+***
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+# Volunteer Experience
 
-### Jekyll Themes
+## **Volunteer with Foodsharing Copenhagen**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bethannchamber/cv/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Collect food from markets or cafes in Denmark and distribute food that would otherwise be wasted.
 
-### Support or Contact
+## **Book Club Leader with Books & Company in Hellerup**
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Lead monthly meetings and communicate regularly with members and bookstore management.
+
+***
+
+# Skills
+
+* Research:
+
+     * Data management
+     * Statistical analyses
+     * Design
+     * Recruitment
+
+* Soft Skills:
+
+      * Leadership
+      * Adaptability
+      * Presentation
+      * Empathy
+      * Friendly
