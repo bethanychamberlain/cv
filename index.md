@@ -1,3 +1,28 @@
+# Bethany Chamberlain
+
+-------------------     ----------------------------
+Citizenship: United States of America
+Residence (with work permit): Copenhagen, Denmark
+Languages: English (native), Italian (intermediate), Swedish (beginner)
+
+[Email](mailto:bethannchamber+gitcv@gmail.com) | [LinkedIn](linkedin.com/in/bethanyannc) | [GitHub](https://github.com/bethannchamber)
+
+-------------------     ----------------------------
+
+## Education
+
+### **Machine Learning and DataScience Program** with [*Integrify*](https://integrify.academy/international)
+Currently completing (April 2021 to September 2021)
+
+### **MSc Research Methods in Psychology** 
+Graduated with *merit* from the [University of Strathclyde](https://www.strath.ac.uk/courses/postgraduatetaught/researchmethodsinpsychology/) in 2018 (Glasgow, UK)
+
+*Thesis title: Deep Learning Approaches to the Self-Awesomeness
+Estimation Problem*
+
+### **BA Psychology**
+Graduated with *honors* from [Bemidji State University](https://www.bemidjistate.edu/academics/departments/psychology/)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/bethannchamber/cv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
