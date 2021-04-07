@@ -8,6 +8,7 @@
 
 # Education
 
+
 ### **Machine Learning and DataScience Program** with [*Integrify*](https://integrify.academy/international)
 > Currently completing (April 2021 to September 2021)
 >
@@ -26,6 +27,7 @@
 ***
 
 # Work Experience
+
 
 ### **External Lecturer, Public Mental Health** at DIS Study Abroad - Copenhagen
 > 
@@ -58,6 +60,7 @@
 
 # Volunteer Experience
 
+
 ### **Volunteer with Foodsharing Copenhagen**
 >
 > Collect food from markets or cafes in Denmark and distribute food that would otherwise be wasted.
@@ -71,6 +74,7 @@
 ***
 
 # Skills
+
 
 ### Research:
 
