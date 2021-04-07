@@ -1,12 +1,11 @@
-# [Email](mailto:bethannchamber+gitcv@gmail.com)    |   [LinkedIn](linkedin.com/in/bethanyannc)    |   [GitHub](https://github.com/bethannchamber)
+# Contact Me
+[Email](mailto:bethannchamber+gitcv@gmail.com)    |   [LinkedIn](linkedin.com/in/bethanyannc)    |   [GitHub](https://github.com/bethannchamber)
 
 * *Citizenship:* United States of America
 * *Residence (with work permit):* Copenhagen, Denmark
 * *Languages:* English (native), Italian (intermediate), Swedish (beginner)
 
-## ________________________________________________________________________________________________________________________________________________________
-
-# Education
+## Education
 
 ### **Machine Learning and DataScience** 
 In April 2021, I began a bootcamp program with [*Integrify*](https://integrify.academy/international). The program will run until September 2021. 
@@ -31,12 +30,12 @@ I graduated with *merit* from the [University of Strathclyde](https://www.strath
 
 **Dissertation Module:**
 > **Title:** Transliminality and Visual Perception: Investigating the interaction between transliminality scores and the rate of inattentional and change blindness.
->
-> For my project, I used 
-> * E-Prime software to design computerized tasks to test change blindness and inattentional blindness 
-> * Qualtrics to design and administer a survey to sort participants into groups
-> * Calendly to organize lab visits for research participants to complete the computerized tasks
-> * SPSS and Excel for managing data and conducting analyses
+
+For my project, I used 
+* E-Prime software to design computerized tasks to test change blindness and inattentional blindness 
+* Qualtrics to design and administer a survey to sort participants into groups
+* Calendly to organize lab visits for research participants to complete the computerized tasks
+* SPSS and Excel for managing data and conducting analyses
 
 **Accomplishments:**
 * 3rd author on a [publication](doi.org/10.1002/acp.3608)
@@ -46,7 +45,7 @@ I graduated with *merit* from the [University of Strathclyde](https://www.strath
 I graduated with *honors* from [Bemidji State University](https://www.bemidjistate.edu/academics/departments/psychology/) in 2016. In addition to generally broadening my understanding of psychological concepts, I also began to study research methods and statistics for social sciences. I used SPSS and Microsoft Office programs regularly.
 
 
-# Work Experience
+## Work Experience
 
 ### **External Lecturer**
 DIS Study Abroad - Copenhagen (*January 2021 to Present*)
@@ -79,7 +78,7 @@ Marked essays and lab reports, invigilated for tests, maintained paperwork, and 
 * **Time management skills:** strict deadlines to meet
 * **Friendliness** and **enthusiasm**
 
-# Volunteer Experience
+## Volunteer Experience
 
 ### **Foodsharing Copenhagen**
 
@@ -90,37 +89,37 @@ I have volunteered with this organization since October 2020. I help collect foo
 I have volunteered as a book club leader at this local book store since about January 2020. I lead monthly meetings, communicate regularly with book club members and bookstore management, and also handle general administrative tasks (e.g., keeping our online document up to date).
 
 
-# Skills
+## Skills
 
 
 #### Research:
 
-     * Data management
-        * input
-        * cleanup
-        * visualization
-     * Statistical analyses
-        * descriptive
-        * inferential
-     * Design
-        * experiments
-        * online surveys
-        * interviews
-     * Recruitment
-        * Facebook
-        * Reddit
-        * Undergraduate students
-        * Word of mouth
+* Data management
+  * input
+  * cleanup
+  * visualization
+* Statistical analyses
+  * descriptive
+  * inferential
+* Design
+  * experiments
+  * online surveys
+  * interviews
+* Recruitment
+  * Facebook
+  * Reddit
+  * Undergraduate students
+  * Word of mouth
 
 #### Soft Skills:
 
-     * Leadership
-     * Adaptability
-     * Presentation
-     * Empathy
-     * Friendly
-     * Interpersonal communication
-     * Time management
-     * Public speaking
-     * Resourcefulness
-     * Enthusiasm
+* Leadership
+* Adaptability
+* Presentation
+* Empathy
+* Friendly
+* Interpersonal communication
+* Time management
+* Public speaking
+* Resourcefulness
+* Enthusiasm
