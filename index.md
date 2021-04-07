@@ -7,7 +7,6 @@
 ***
 
 # Education
-##
 
 ### **Machine Learning and DataScience Program** with [*Integrify*](https://integrify.academy/international)
 > Currently completing (April 2021 to September 2021)
