@@ -33,7 +33,7 @@ I graduated with *merit* from the [University of Strathclyde](https://www.strath
 #### **Dissertation Module:**
 > **Title:** Transliminality and Visual Perception: Investigating the interaction between transliminality scores and the rate of inattentional and change blindness.
 
-#### **For my project, I used:** 
+##### **For my project, I used:** 
 * E-Prime software to design computerized tasks to test change blindness and inattentional blindness 
 * Qualtrics to design and administer a survey to sort participants into groups
 * Calendly to organize lab visits for research participants to complete the computerized tasks
