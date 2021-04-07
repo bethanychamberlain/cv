@@ -1,12 +1,12 @@
 # [Email](mailto:bethannchamber+gitcv@gmail.com)    |   [LinkedIn](linkedin.com/in/bethanyannc)    |   [GitHub](https://github.com/bethannchamber)
 
-   * *Citizenship:* United States of America
-   * *Residence (with work permit):* Copenhagen, Denmark
-   * *Languages:* English (native), Italian (intermediate), Swedish (beginner)
+* *Citizenship:* United States of America
+* *Residence (with work permit):* Copenhagen, Denmark
+* *Languages:* English (native), Italian (intermediate), Swedish (beginner)
 
 ***
 
-## Education
+# Education
 
 > ### **Machine Learning and DataScience Program** with [*Integrify*](https://integrify.academy/international)
 > Currently completing (April 2021 to September 2021)
@@ -22,7 +22,7 @@
 
 ***
 
-## Work Experience
+# Work Experience
 
 > ### **External Lecturer, Public Mental Health** at DIS Study Abroad - Copenhagen
 > 
@@ -50,7 +50,7 @@
 
 ***
 
-## Volunteer Experience
+# Volunteer Experience
 
 > ### **Volunteer with Foodsharing Copenhagen**
 >
@@ -62,16 +62,16 @@
 
 ***
 
-## Skills
+# Skills
 
-#### Research:
+### Research:
 
      * Data management
      * Statistical analyses
      * Design
      * Recruitment
 
-#### Soft Skills:
+### Soft Skills:
 
      * Leadership
      * Adaptability
