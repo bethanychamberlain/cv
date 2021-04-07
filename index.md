@@ -1,13 +1,15 @@
-# Bethany Chamberlain
+# <div align="center">Bethany Chamberlain</div>
 
--------------------     ----------------------------
-Citizenship: United States of America
-Residence (with work permit): Copenhagen, Denmark
-Languages: English (native), Italian (intermediate), Swedish (beginner)
+#### [Email](mailto:bethannchamber+gitcv@gmail.com)    |   [LinkedIn](linkedin.com/in/bethanyannc)    |   [GitHub](https://github.com/bethannchamber)
 
-[Email](mailto:bethannchamber+gitcv@gmail.com) | [LinkedIn](linkedin.com/in/bethanyannc) | [GitHub](https://github.com/bethannchamber)
 
--------------------     ----------------------------
+*Citizenship:* United States of America
+
+*Residence (with work permit):* Copenhagen, Denmark
+
+*Languages:* English (native), Italian (intermediate), Swedish (beginner)
+
+***
 
 ## Education
 
