@@ -1,4 +1,4 @@
-# <div align="center">Bethany Chamberlain</div>
+# Bethany Chamberlain
 
 #### [Email](mailto:bethannchamber+gitcv@gmail.com)    |   [LinkedIn](linkedin.com/in/bethanyannc)    |   [GitHub](https://github.com/bethannchamber)
 
